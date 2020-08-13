@@ -1,0 +1,7 @@
+.main-content{
+    @include flex-center(column);
+
+    span{
+  font-family: 'Raleway', sans-serif;
+    };
+};
